@@ -1,7 +1,7 @@
-WiSHFUL - Mininet
+UniFlex - Mininet
 =================
 
-This module contains the Mininet-WiFi wrapper for the Wishful software platform for radio and network control.
+This module contains the Mininet-WiFi wrapper for the UniFlex control framework.
 
 ## Acknowledgement
 
